@@ -1,5 +1,5 @@
 FROM python:3
 
-ADD hellowolrd.py /
+ADD tugasitak.py /
 
-CMD ["python", "./helloworld.py"]
+CMD ["python", "./tugasitak.py"]
